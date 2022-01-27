@@ -1,7 +1,7 @@
 Ad,PersonelNo,şehir,yaş,tecrübe,gelir,ev,kilo,boy,Eğitim Durumu
-Ayşe,15798,is,20,1,5,y,54,163,Master
+Ayşe,15798,is,20,1,8,y,54,163,Master
 Ali,87962,is,40,18,10,v,72,179,Üniversite
-Veli,72596,is,25,8,6,y,78,192,Master
+Veli,72596,is,25,8,9,y,78,192,Master
 Gamze,25987,is,33,10,7,v,56,165,Lise
 Murat,25896,is,45,25,8,v,89,189,Üniversite
 Deniz,18796,is,55,36,12,v,65,173,Lise
@@ -9,19 +9,19 @@ Sevgi,25896,is,31,12,8,y,61,170,Üniversite
 Fırat,10259,is,24,2,3,y,58,160,Lise
 Ayça,48975,is,61,25,22,v,64,169,Üniversite
 Suna,15796,an,37,14,7,v,65,168,Lise
-Doğan,88964,an,45,15,25,y,83,197,Master
+Doğan,88964,an,45,10,30,y,83,197,Master
 Kerem,58796,an,51,26,7,y,79,186,Üniversite
 Yeliz,57964,an,49,28,10,v,62,171,Lise
-Canan,15976,an,39,20,10,v,64,153,Master
+Canan,15976,an,39,20,11,v,64,153,Master
 Ege,78921,an,30,10,4,y,80,182,Üniversite
 Barış,45634,iz,47,28,9,v,75,179,Lise
 Mert,89314,iz,29,8,7,y,92,197,Yüksek Okul
-Yeliz,72698,iz,32,15,11,v,59,165,Master
+Yeliz,72698,iz,32,15,12,v,59,165,Master
 Esra,89574,iz,53,25,13,y,63,168,Üniversite
 Tuna,92687,iz,27,10,20,y,87,176,Doktora
 Esra,91236,iz,23,6,4,y,55,159,Lise
 Selen,72397,iz,62,40,12,v,64,164,Üniversite
-Tolga,56987,is,37,17,15,v,73,178,Üniversite
+Tolga,56987,is,37,17,28,v,73,178,Üniversite
 Hasan,39211,an,20,2,6,y,81,186,Yüksek Okul
 Burçin,55987,iz,54,35,10,v,57,167,Üniversite
 Büşra,26674,is,52,33,15,v,59,173,Üniversite
